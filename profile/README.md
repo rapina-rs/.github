@@ -1,5 +1,5 @@
 <p align=center>
- <img src="./assets/RAPINA.jpg" alt="Rapina Banner" />
+ <img src="./assets/rapina-banner.png" alt="Rapina Banner" />
 </p>
 
 <h3 align=center>Rapina</h3>
